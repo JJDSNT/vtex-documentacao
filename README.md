@@ -1,4 +1,4 @@
-# vtex-documentacao
+# Documentação VTEX
 Esboço inspiracional para uma documentação de welcome/onboarding
 
 # Introdução
@@ -33,3 +33,8 @@ setup - https://learn.vtex.com/docs/course-basic-blocks-step00setup-lang-pt
 https://github.com/vtex/faststore
 
 https://www.yumpu.com/pt/document/view/63015596/treinamento-vtex-training-day-trabalhando-com-o-vtex-io
+
+Arquitetura e API
+Headless
+SSR
+
