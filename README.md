@@ -35,6 +35,8 @@ https://github.com/vtex/faststore
 https://www.yumpu.com/pt/document/view/63015596/treinamento-vtex-training-day-trabalhando-com-o-vtex-io
 
 Arquitetura e API
+- 
 Headless
+- 
 SSR
 
