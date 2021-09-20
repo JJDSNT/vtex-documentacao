@@ -25,7 +25,7 @@ TODO
 * Backup/Recovery geral
 * Ambiente de desenvolvimento - https://github.com/qdm12/reactdevcontainer
 
-# Misc
+# Misc & Links
 
 setup - https://learn.vtex.com/docs/course-basic-blocks-step00setup-lang-pt
 
