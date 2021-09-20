@@ -18,7 +18,7 @@ TODO
 
 # TODO
 
-* Esteira CI/CD
+* Esteira CI/CD (sempre ter links para as versões de desenvolvimento e rollback para a versão de produção anterior)
 * Backup/Recovery geral
 * Ambiente de desenvolvimento - https://github.com/qdm12/reactdevcontainer
 
