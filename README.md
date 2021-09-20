@@ -3,7 +3,7 @@ Esboço inspiracional para uma documentação de welcome/onboarding
 
 # Introdução
 
-https://youtu.be/4hHDbIXAcKc
+* ambientação - https://youtu.be/4hHDbIXAcKc
 
 * Página - 
 
