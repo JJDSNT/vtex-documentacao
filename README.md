@@ -41,7 +41,7 @@ Esboço inspiracional para uma documentação de welcome/onboarding
 
 # ToDo
 
+* Ambiente de desenvolvimento vscode+wsl+docker - https://github.com/qdm12/reactdevcontainer
 * Esteira CI/CD (sempre ter links para as versões de desenvolvimento e rollback para a versão de produção anterior)
 * Backup/Recovery geral
-* Ambiente de desenvolvimento vscode+wsl+docker - https://github.com/qdm12/reactdevcontainer
 
