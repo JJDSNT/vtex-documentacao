@@ -17,8 +17,8 @@ Esboço inspiracional para uma documentação de welcome/onboarding
 
 # Integração com o wordpress
 
-Integrar vtex no wordpress - 
-Integrar wordpress na vtex - https://help.vtex.com/pt/announcements/wordpress-uma-poderosa-ferramenta-de-marketing-para-sua-loja--01uDrNIgvAvHQK2H4wZ6uU
+* Integrar vtex no wordpress - 
+* Integrar wordpress na vtex - https://help.vtex.com/pt/announcements/wordpress-uma-poderosa-ferramenta-de-marketing-para-sua-loja--01uDrNIgvAvHQK2H4wZ6uU
 
 # ToDo
 
