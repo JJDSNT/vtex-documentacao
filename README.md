@@ -17,13 +17,14 @@ Esboço inspiracional para uma documentação de welcome/onboarding
 
 # Integração com o wordpress
 
-TODO
+Integrar vtex no wordpress - 
+Integrar wordpress na vtex - https://help.vtex.com/pt/announcements/wordpress-uma-poderosa-ferramenta-de-marketing-para-sua-loja--01uDrNIgvAvHQK2H4wZ6uU
 
 # ToDo
 
 * Esteira CI/CD (sempre ter links para as versões de desenvolvimento e rollback para a versão de produção anterior)
 * Backup/Recovery geral
-* Ambiente de desenvolvimento - https://github.com/qdm12/reactdevcontainer
+* Ambiente de desenvolvimento vscode+wsl+docker - https://github.com/qdm12/reactdevcontainer
 
 # Misc & Links
 
