@@ -30,8 +30,12 @@ Esboço inspiracional para uma documentação de welcome/onboarding
 
 setup - https://learn.vtex.com/docs/course-basic-blocks-step00setup-lang-pt
 
-* Headless
+
 * Arquitetura e API
+* Headless
+* API - https://developers.vtex.com/vtex-rest-api/reference/get-to-know-vtex-apis
+
+
 * SSR
 
 https://github.com/vtex/faststore
