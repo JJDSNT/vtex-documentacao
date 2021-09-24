@@ -30,7 +30,7 @@ Esboço inspiracional para uma documentação de welcome/onboarding
 * API - https://developers.vtex.com/vtex-rest-api/reference/get-to-know-vtex-apis
 * PWA - https://help.vtex.com/pt/tutorial/como-transformar-o-site-da-minha-loja-em-um-pwa--3i8VmYeToAUGKgo2kKK6I2
 
-# SSR
+# SSR (Server Side Rendering)
 * Jamstack - https://jamstack.org/generators/react-static/
 * Gatsby - https://www.gatsbyjs.com/
 
